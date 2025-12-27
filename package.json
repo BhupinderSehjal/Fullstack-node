@@ -1,0 +1,20 @@
+{
+  "name": "fullstack-node",
+  "version": "1.0.0",
+  "description": "FullStack NodeJS Project",
+  "homepage": "https://github.com/BhupinderSehjal/Fullstack-node#readme",
+  "bugs": {
+    "url": "https://github.com/BhupinderSehjal/Fullstack-node/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BhupinderSehjal/Fullstack-node.git"
+  },
+  "license": "MIT",
+  "author": "Bhupinder Sehjal",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
